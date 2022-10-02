@@ -1,0 +1,16 @@
+rs/raf/demo/services/UserService.class
+rs/raf/demo/services/SubjectService.class
+rs/raf/demo/HelloApplication$1.class
+rs/raf/demo/repositories/subject/MySqlSubjectRepository.class
+rs/raf/demo/repositories/user/InMemoryUserRepository.class
+rs/raf/demo/repositories/subject/SubjectRepository.class
+rs/raf/demo/repositories/MySqlAbstractRepository.class
+rs/raf/demo/HelloApplication.class
+rs/raf/demo/repositories/user/UserRepository.class
+rs/raf/demo/repositories/subject/InMemorySubjectRepository.class
+rs/raf/demo/requests/LoginRequest.class
+rs/raf/demo/filters/AuthFilter.class
+rs/raf/demo/resources/SubjectResource.class
+rs/raf/demo/entities/Subject.class
+rs/raf/demo/entities/User.class
+rs/raf/demo/resources/UserResource.class
